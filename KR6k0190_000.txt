@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 說罪要行法
+#+DATE: 2015-08-30 20:46:06.365102
+#+PROPERTY: JUAN 0
