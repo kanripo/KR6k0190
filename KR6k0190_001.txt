@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:06.182862
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 說罪要行法
 #+PROPERTY: CBETA_ID T45n1903
 #+PROPERTY: ID KR6k0190
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1903
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0190_T_000-0903c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0190_T_001-0903c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1903¶
-
- 說罪要行法¶
+No. 1903¶
+說罪要行法¶
 ¶
 唐三藏法師義淨撰¶
 
@@ -93,11 +92,7 @@ No.1903¶
 露。後別行法。若犯窣吐羅。及犯捨墮罪。准法¶
 除之。¶
 
-每食罷發願法
-:PROPERTIES:
-:head: 每食罷發願法
-:END:
-¶
+* 每食罷發願法¶
 
 准如律教。若苾芻食了之時。若須誦持欹拏¶
 伽他。謂施頌也。隨於靜處或坐或立。或可經¶
