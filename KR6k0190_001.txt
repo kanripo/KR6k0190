@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:06.182862
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 說罪要行法
 #+PROPERTY: CBETA_ID T45n1903
 #+PROPERTY: ID KR6k0190
@@ -93,7 +93,7 @@ No.1903¶
 露。後別行法。若犯窣吐羅。及犯捨墮罪。准法¶
 除之。¶
 
-每食罷發願法
+* 每食罷發願法
 :PROPERTIES:
 :head: 每食罷發願法
 :END:
